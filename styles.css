@@ -38,7 +38,18 @@
 }
 
 .header h1 {
-    font-size: 56px;
+    font-size: 76px;
+    font-weight: bold;
     margin-top: 85px;
+    font-family: 'Courier New', monospace;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.container h2 {
+    font-size: 42px;
+    margin-top: 15px;
     font-family: 'Courier New', monospace;
 }
