@@ -1,5 +1,6 @@
 /* Basic styles for the menu */
 
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
 .top-menu ul {
     list-style-type: none;
     padding: 0;
@@ -13,10 +14,11 @@
 }
 
 .top-menu a {
-    color: rgb(95, 20, 145);
+    color: rgb(0, 0, 0);
     text-decoration: none;
     font-size: 24px;
     display: inline-block;
+    font-family: 'Audiowide';
 }
 
 .top-menu a:hover {
@@ -29,19 +31,20 @@
 }
 
 .header img {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     margin-top: 50px;
     margin-left: 25px;
-    margin-right: 100px;
+    margin-right: 75px;
 }
 
 .header h1 {
     font-size: 76px;
-    font-weight: bold;
+    /* font-weight: bold; */
     margin-top: 85px;
-    font-family: 'Courier New', monospace;
+    /* font-family: 'Courier New', monospace; */
+    font-family: 'Audiowide';
 }
 
 .container {
@@ -49,7 +52,14 @@
 }
 
 .container h2 {
-    font-size: 42px;
+    font-size: 36px;
     margin-top: 15px;
-    font-family: 'Courier New', monospace;
+    /* font-family: 'Courier New', monospace; */
+    font-family: 'Audiowide';
+}
+
+h1 {
+    font-family: 'Audiowide';
+    font-size: 36px;
+    margin-top: 15px;
 }
