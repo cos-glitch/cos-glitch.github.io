@@ -22,3 +22,16 @@
 .top-menu a:hover {
     background-color: #807d7d;
 }
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 36px;
+}
