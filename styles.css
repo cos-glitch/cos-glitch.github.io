@@ -63,3 +63,8 @@ h1 {
     font-size: 36px;
     margin-top: 15px;
 }
+
+.italics {
+    font-style: italic;
+    font-size: 20px;
+}
