@@ -1,0 +1,24 @@
+/* Basic styles for the menu */
+
+.top-menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #dadada;
+}
+
+.top-menu li {
+    display: inline;
+    padding: 8px 12px;
+}
+
+.top-menu a {
+    color: rgb(95, 20, 145);
+    text-decoration: none;
+    font-size: 24px;
+    display: inline-block;
+}
+
+.top-menu a:hover {
+    background-color: #807d7d;
+}
