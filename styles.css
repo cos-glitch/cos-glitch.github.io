@@ -83,9 +83,11 @@ h1 {
 }
 
 .skill span {
+    width: 40px;
     flex: 1;
     /* display: block; */
-    margin: 25px;
+    margin-right: 25px;
+    margin-top: 15px;
     font-weight: bold;
     font-size: 20px;
 }
@@ -95,7 +97,8 @@ h1 {
     width: 250px;
     background-color: #dadada;
     padding: 5px;
-    margin: 25px;
+    margin-top: 15px;
+    margin-left: 25px;
 }
 
 .progress-bar {
