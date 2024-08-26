@@ -177,4 +177,10 @@ h1 {
     margin: 15px;
 }
 
+.card img {
+    height: auto;
+    max-height: 350px;
+    
+}
+
 /* unsorted css */
