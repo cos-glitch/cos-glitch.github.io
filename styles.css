@@ -16,6 +16,10 @@ h1 {
     font-size: 20px;
 }
 
+.indent {
+    text-indent: 5%;
+}
+
 /* Header menu */
 
 .top-menu ul {
@@ -162,6 +166,15 @@ h1 {
     font-family: 'Audiowide';
 }
 
+/* Cards */
 
+.card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: auto;
+    margin: 15px;
+}
 
 /* unsorted css */
