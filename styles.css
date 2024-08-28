@@ -11,6 +11,10 @@ h1 {
     margin-top: 15px;
 }
 
+p {
+    font-size: 18px;
+}
+
 .italics {
     font-style: italic;
     font-size: 20px;
@@ -19,6 +23,7 @@ h1 {
 .indent {
     text-indent: 5%;
 }
+
 
 /* Header menu */
 
@@ -85,6 +90,8 @@ h1 {
 }
 
 .layout-div1 {
+    width: auto;
+    max-width: fit-content;
     grid-column: 1/2;
     padding: 10px;
     background-color: #fff;
@@ -94,8 +101,11 @@ h1 {
 }
 
 .layout-div2 {
+    width: auto;
+    max-width: 600px;
     grid-column: 2/3;
     padding: 10px;
+    padding-right: 20px;
     background-color: #fff;
     /* padding: 20px; */
     border-radius: 10px;
