@@ -69,8 +69,6 @@ h3 {
 }
 
 .header img {
-    /* width: 200px;
-    height: 200px; */
     width: auto;
     max-width: 250px;
     height: auto;
@@ -84,7 +82,6 @@ h3 {
 .header h1 {
     font-size: 76px;
     margin-top: 85px;
-    /* font-family: 'Courier New', monospace; */
     font-family: 'Audiowide';
 }
 
@@ -130,7 +127,6 @@ h3 {
 }
 
 .layout-div2-inner {
-    /* padding: 20px; */
     padding-right: 20px;
     width: auto;
     max-width: 600px;
@@ -139,23 +135,10 @@ h3 {
     
 }
 
-/* .layout-div1 h2,
-.layout-div2 h2 {
-    position: absolute;
-    top: -50px;
-    left: 20px;
-    z-index: 1;
-    font-size: 36px;
-    font-family: 'Audiowide';
-    background-color: #fff;
-    padding: 0 10px;
-} */
-
 .layout-container h2 {
     font-size: 36px;
     margin-top: 5px;
     margin-bottom: 5px;
-    /* font-family: 'Courier New', monospace; */
     font-family: 'Audiowide';
 }
 
@@ -163,7 +146,6 @@ h3 {
     font-size: 28px;
     margin-top: 5px;
     margin-bottom: 5px;
-    /* font-family: 'Courier New', monospace; */
     font-family: 'Audiowide';
 }
 
@@ -199,15 +181,13 @@ h3 {
     width: 250px;
     height: 18px;
     background-color: #dadada;
-    /* padding: 5px; */
     margin-top: 15px;
     margin-left: 35px;
 }
 
 .progress-bar {
-    /* width: 70%; */
     height: 18px;
-    background-color: darkgreen;
+    background-color: rgb(25, 140, 25);
 }
 
 
@@ -220,7 +200,6 @@ h3 {
 .container h2 {
     font-size: 36px;
     margin-top: 15px;
-    /* font-family: 'Courier New', monospace; */
     font-family: 'Audiowide';
 }
 
