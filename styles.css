@@ -227,7 +227,10 @@ h3 {
 .card img {
     height: auto;
     max-height: 350px;
-    
+}
+
+.card figure {
+    text-align: center;
 }
 
 /* unsorted css */
