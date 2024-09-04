@@ -256,3 +256,20 @@ a h1{
 }
 
 /* unsorted css */
+
+.sm-btn {
+    width: 36px;
+    height: 36px;
+    display: inline;
+    
+}
+
+.sm-btn img {
+    width: 36px;
+    height: 36px;
+    padding: 7px;
+}
+
+.sm-btn:hover {
+    background-color: #005682;
+}
