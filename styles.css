@@ -263,11 +263,11 @@ a h1{
 }
 
 .sm-btn img {
-    width: 36px;
+    width: auto;
     height: 36px;
     padding: 7px;
 }
 
-.sm-btn:hover {
+/* .sm-btn:hover {
     background-color: #005682;
-}
+} */
