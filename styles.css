@@ -271,3 +271,8 @@ a h1{
 /* .sm-btn:hover {
     background-color: #005682;
 } */
+
+.pdf {
+    width: 100%;
+    aspect-ratio: 4/3;
+}
