@@ -196,12 +196,13 @@ a h1{
 
 .skill span {
     width: 40px;
-    flex: 1;
+    flex: 0 0 60px;
     /* display: block; */
     margin-right: 20px;
     margin-top: 12px;
     font-weight: bold;
     font-size: 18px;
+    flex-shrink: 0;
 }
 
 .progress-container {
