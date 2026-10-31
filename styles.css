@@ -278,3 +278,66 @@ a h1{
     width: 100%;
     aspect-ratio: 4/3;
 }
+
+/* styles for githbu readme */
+.readme {
+    margin-top: 20px;
+    text-align: left;
+    overflow-wrap: break-word;
+}
+
+/* README headings */
+.readme h1,
+.readme h2,
+.readme h3,
+.readme h4 {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+/* README images */
+.readme img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 15px auto;
+}
+
+/* README links */
+.readme a {
+    color: inherit;
+}
+
+/* Code blocks */
+.readme pre {
+    overflow-x: auto;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #f0f0f0;
+}
+
+/* Inline code */
+.readme code {
+    overflow-wrap: break-word;
+}
+
+/* Tables */
+.readme table {
+    width: 100%;
+    border-collapse: collapse;
+    display: block;
+    overflow-x: auto;
+}
+
+.readme th,
+.readme td {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+/* Blockquotes */
+.readme blockquote {
+    border-left: 3px solid #999;
+    padding-left: 15px;
+    margin-left: 0;
+}
