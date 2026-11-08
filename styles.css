@@ -209,10 +209,10 @@ a h1{
 .progress-container {
     /* display: flex; */
     width: 250px;
-    height: 18px;
+    height: 16px;
     background-color: #dadada;
     margin-top: 15px;
-    margin-left: 35px;
+    margin-left: 30px;
 }
 
 .progress-bar {
